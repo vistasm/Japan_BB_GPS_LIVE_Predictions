@@ -1,2 +1,2 @@
 # Japan_BB_GPS_LIVE_Predictions
-Japan_BB_GPS_LIVE_Predictions
+LIVE model predictions — trained on ALL data, calibrated on last 3 years.

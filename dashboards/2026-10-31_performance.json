@@ -1,0 +1,2662 @@
+{
+  "dashboard_date": "2026-10-31",
+  "config": "bb_gps",
+  "metrics": [
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 7,
+      "budget": 0.5,
+      "n_predictions": 145,
+      "n_events": 19,
+      "n_alerts": 5,
+      "tp": 0,
+      "fp": 5,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.131034
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 7,
+      "budget": 1.0,
+      "n_predictions": 145,
+      "n_events": 19,
+      "n_alerts": 6,
+      "tp": 0,
+      "fp": 6,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.131034
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 7,
+      "budget": 2.0,
+      "n_predictions": 145,
+      "n_events": 19,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.131034
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 7,
+      "budget": 5.0,
+      "n_predictions": 145,
+      "n_events": 19,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.131034
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 7,
+      "budget": 10.0,
+      "n_predictions": 145,
+      "n_events": 19,
+      "n_alerts": 9,
+      "tp": 0,
+      "fp": 9,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.131034
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 30,
+      "budget": 0.5,
+      "n_predictions": 812,
+      "n_events": 119,
+      "n_alerts": 20,
+      "tp": 3,
+      "fp": 17,
+      "fn": 116,
+      "precision": 0.15,
+      "recall": 0.0252,
+      "lift": 1.02,
+      "base_rate": 0.146552
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 30,
+      "budget": 1.0,
+      "n_predictions": 812,
+      "n_events": 119,
+      "n_alerts": 21,
+      "tp": 3,
+      "fp": 18,
+      "fn": 116,
+      "precision": 0.1429,
+      "recall": 0.0252,
+      "lift": 0.97,
+      "base_rate": 0.146552
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 30,
+      "budget": 2.0,
+      "n_predictions": 812,
+      "n_events": 119,
+      "n_alerts": 24,
+      "tp": 4,
+      "fp": 20,
+      "fn": 115,
+      "precision": 0.1667,
+      "recall": 0.0336,
+      "lift": 1.14,
+      "base_rate": 0.146552
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 30,
+      "budget": 5.0,
+      "n_predictions": 812,
+      "n_events": 119,
+      "n_alerts": 29,
+      "tp": 4,
+      "fp": 25,
+      "fn": 115,
+      "precision": 0.1379,
+      "recall": 0.0336,
+      "lift": 0.94,
+      "base_rate": 0.146552
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 30,
+      "budget": 10.0,
+      "n_predictions": 812,
+      "n_events": 119,
+      "n_alerts": 45,
+      "tp": 7,
+      "fp": 38,
+      "fn": 112,
+      "precision": 0.1556,
+      "recall": 0.0588,
+      "lift": 1.06,
+      "base_rate": 0.146552
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 90,
+      "budget": 0.5,
+      "n_predictions": 2552,
+      "n_events": 389,
+      "n_alerts": 85,
+      "tp": 3,
+      "fp": 82,
+      "fn": 386,
+      "precision": 0.0353,
+      "recall": 0.0077,
+      "lift": 0.23,
+      "base_rate": 0.152429
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 90,
+      "budget": 1.0,
+      "n_predictions": 2552,
+      "n_events": 389,
+      "n_alerts": 86,
+      "tp": 3,
+      "fp": 83,
+      "fn": 386,
+      "precision": 0.0349,
+      "recall": 0.0077,
+      "lift": 0.23,
+      "base_rate": 0.152429
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 90,
+      "budget": 2.0,
+      "n_predictions": 2552,
+      "n_events": 389,
+      "n_alerts": 90,
+      "tp": 4,
+      "fp": 86,
+      "fn": 385,
+      "precision": 0.0444,
+      "recall": 0.0103,
+      "lift": 0.29,
+      "base_rate": 0.152429
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 90,
+      "budget": 5.0,
+      "n_predictions": 2552,
+      "n_events": 389,
+      "n_alerts": 109,
+      "tp": 6,
+      "fp": 103,
+      "fn": 383,
+      "precision": 0.055,
+      "recall": 0.0154,
+      "lift": 0.36,
+      "base_rate": 0.152429
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T1",
+      "window_days": 90,
+      "budget": 10.0,
+      "n_predictions": 2552,
+      "n_events": 389,
+      "n_alerts": 161,
+      "tp": 10,
+      "fp": 151,
+      "fn": 379,
+      "precision": 0.0621,
+      "recall": 0.0257,
+      "lift": 0.41,
+      "base_rate": 0.152429
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 7,
+      "budget": 0.5,
+      "n_predictions": 145,
+      "n_events": 16,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.110345
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 7,
+      "budget": 1.0,
+      "n_predictions": 145,
+      "n_events": 16,
+      "n_alerts": 11,
+      "tp": 0,
+      "fp": 11,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.110345
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 7,
+      "budget": 2.0,
+      "n_predictions": 145,
+      "n_events": 16,
+      "n_alerts": 15,
+      "tp": 0,
+      "fp": 15,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.110345
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 7,
+      "budget": 5.0,
+      "n_predictions": 145,
+      "n_events": 16,
+      "n_alerts": 23,
+      "tp": 0,
+      "fp": 23,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.110345
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 7,
+      "budget": 10.0,
+      "n_predictions": 145,
+      "n_events": 16,
+      "n_alerts": 38,
+      "tp": 0,
+      "fp": 38,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.110345
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 30,
+      "budget": 0.5,
+      "n_predictions": 812,
+      "n_events": 69,
+      "n_alerts": 46,
+      "tp": 0,
+      "fp": 46,
+      "fn": 69,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.084975
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 30,
+      "budget": 1.0,
+      "n_predictions": 812,
+      "n_events": 69,
+      "n_alerts": 55,
+      "tp": 2,
+      "fp": 53,
+      "fn": 67,
+      "precision": 0.0364,
+      "recall": 0.029,
+      "lift": 0.43,
+      "base_rate": 0.084975
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 30,
+      "budget": 2.0,
+      "n_predictions": 812,
+      "n_events": 69,
+      "n_alerts": 83,
+      "tp": 2,
+      "fp": 81,
+      "fn": 67,
+      "precision": 0.0241,
+      "recall": 0.029,
+      "lift": 0.28,
+      "base_rate": 0.084975
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 30,
+      "budget": 5.0,
+      "n_predictions": 812,
+      "n_events": 69,
+      "n_alerts": 152,
+      "tp": 5,
+      "fp": 147,
+      "fn": 64,
+      "precision": 0.0329,
+      "recall": 0.0725,
+      "lift": 0.39,
+      "base_rate": 0.084975
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 30,
+      "budget": 10.0,
+      "n_predictions": 812,
+      "n_events": 69,
+      "n_alerts": 205,
+      "tp": 5,
+      "fp": 200,
+      "fn": 64,
+      "precision": 0.0244,
+      "recall": 0.0725,
+      "lift": 0.29,
+      "base_rate": 0.084975
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 90,
+      "budget": 0.5,
+      "n_predictions": 2552,
+      "n_events": 218,
+      "n_alerts": 160,
+      "tp": 1,
+      "fp": 159,
+      "fn": 217,
+      "precision": 0.0062,
+      "recall": 0.0046,
+      "lift": 0.07,
+      "base_rate": 0.085423
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 90,
+      "budget": 1.0,
+      "n_predictions": 2552,
+      "n_events": 218,
+      "n_alerts": 194,
+      "tp": 3,
+      "fp": 191,
+      "fn": 215,
+      "precision": 0.0155,
+      "recall": 0.0138,
+      "lift": 0.18,
+      "base_rate": 0.085423
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 90,
+      "budget": 2.0,
+      "n_predictions": 2552,
+      "n_events": 218,
+      "n_alerts": 278,
+      "tp": 5,
+      "fp": 273,
+      "fn": 213,
+      "precision": 0.018,
+      "recall": 0.0229,
+      "lift": 0.21,
+      "base_rate": 0.085423
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 90,
+      "budget": 5.0,
+      "n_predictions": 2552,
+      "n_events": 218,
+      "n_alerts": 463,
+      "tp": 15,
+      "fp": 448,
+      "fn": 203,
+      "precision": 0.0324,
+      "recall": 0.0688,
+      "lift": 0.38,
+      "base_rate": 0.085423
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T2",
+      "window_days": 90,
+      "budget": 10.0,
+      "n_predictions": 2552,
+      "n_events": 218,
+      "n_alerts": 660,
+      "tp": 22,
+      "fp": 638,
+      "fn": 196,
+      "precision": 0.0333,
+      "recall": 0.1009,
+      "lift": 0.39,
+      "base_rate": 0.085423
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 7,
+      "budget": 0.5,
+      "n_predictions": 116,
+      "n_events": 4,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.034483
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 7,
+      "budget": 1.0,
+      "n_predictions": 116,
+      "n_events": 4,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.034483
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 7,
+      "budget": 2.0,
+      "n_predictions": 116,
+      "n_events": 4,
+      "n_alerts": 9,
+      "tp": 0,
+      "fp": 9,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.034483
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 7,
+      "budget": 5.0,
+      "n_predictions": 116,
+      "n_events": 4,
+      "n_alerts": 12,
+      "tp": 0,
+      "fp": 12,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.034483
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 7,
+      "budget": 10.0,
+      "n_predictions": 116,
+      "n_events": 4,
+      "n_alerts": 19,
+      "tp": 0,
+      "fp": 19,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.034483
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 30,
+      "budget": 0.5,
+      "n_predictions": 783,
+      "n_events": 13,
+      "n_alerts": 48,
+      "tp": 0,
+      "fp": 48,
+      "fn": 13,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.016603
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 30,
+      "budget": 1.0,
+      "n_predictions": 783,
+      "n_events": 13,
+      "n_alerts": 55,
+      "tp": 0,
+      "fp": 55,
+      "fn": 13,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.016603
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 30,
+      "budget": 2.0,
+      "n_predictions": 783,
+      "n_events": 13,
+      "n_alerts": 83,
+      "tp": 0,
+      "fp": 83,
+      "fn": 13,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.016603
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 30,
+      "budget": 5.0,
+      "n_predictions": 783,
+      "n_events": 13,
+      "n_alerts": 109,
+      "tp": 1,
+      "fp": 108,
+      "fn": 12,
+      "precision": 0.0092,
+      "recall": 0.0769,
+      "lift": 0.55,
+      "base_rate": 0.016603
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 30,
+      "budget": 10.0,
+      "n_predictions": 783,
+      "n_events": 13,
+      "n_alerts": 168,
+      "tp": 1,
+      "fp": 167,
+      "fn": 12,
+      "precision": 0.006,
+      "recall": 0.0769,
+      "lift": 0.36,
+      "base_rate": 0.016603
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 90,
+      "budget": 0.5,
+      "n_predictions": 2523,
+      "n_events": 40,
+      "n_alerts": 140,
+      "tp": 0,
+      "fp": 140,
+      "fn": 40,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.015854
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 90,
+      "budget": 1.0,
+      "n_predictions": 2523,
+      "n_events": 40,
+      "n_alerts": 169,
+      "tp": 0,
+      "fp": 169,
+      "fn": 40,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.015854
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 90,
+      "budget": 2.0,
+      "n_predictions": 2523,
+      "n_events": 40,
+      "n_alerts": 268,
+      "tp": 0,
+      "fp": 268,
+      "fn": 40,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.015854
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 90,
+      "budget": 5.0,
+      "n_predictions": 2523,
+      "n_events": 40,
+      "n_alerts": 418,
+      "tp": 1,
+      "fp": 417,
+      "fn": 39,
+      "precision": 0.0024,
+      "recall": 0.025,
+      "lift": 0.15,
+      "base_rate": 0.015854
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T3",
+      "window_days": 90,
+      "budget": 10.0,
+      "n_predictions": 2523,
+      "n_events": 40,
+      "n_alerts": 615,
+      "tp": 1,
+      "fp": 614,
+      "fn": 39,
+      "precision": 0.0016,
+      "recall": 0.025,
+      "lift": 0.1,
+      "base_rate": 0.015854
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 7,
+      "budget": 0.5,
+      "n_predictions": 116,
+      "n_events": 1,
+      "n_alerts": 2,
+      "tp": 0,
+      "fp": 2,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.008621
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 7,
+      "budget": 1.0,
+      "n_predictions": 116,
+      "n_events": 1,
+      "n_alerts": 2,
+      "tp": 0,
+      "fp": 2,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.008621
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 7,
+      "budget": 2.0,
+      "n_predictions": 116,
+      "n_events": 1,
+      "n_alerts": 7,
+      "tp": 0,
+      "fp": 7,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.008621
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 7,
+      "budget": 5.0,
+      "n_predictions": 116,
+      "n_events": 1,
+      "n_alerts": 14,
+      "tp": 0,
+      "fp": 14,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.008621
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 7,
+      "budget": 10.0,
+      "n_predictions": 116,
+      "n_events": 1,
+      "n_alerts": 20,
+      "tp": 0,
+      "fp": 20,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.008621
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 30,
+      "budget": 0.5,
+      "n_predictions": 783,
+      "n_events": 4,
+      "n_alerts": 27,
+      "tp": 0,
+      "fp": 27,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.005109
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 30,
+      "budget": 1.0,
+      "n_predictions": 783,
+      "n_events": 4,
+      "n_alerts": 36,
+      "tp": 0,
+      "fp": 36,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.005109
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 30,
+      "budget": 2.0,
+      "n_predictions": 783,
+      "n_events": 4,
+      "n_alerts": 59,
+      "tp": 0,
+      "fp": 59,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.005109
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 30,
+      "budget": 5.0,
+      "n_predictions": 783,
+      "n_events": 4,
+      "n_alerts": 97,
+      "tp": 0,
+      "fp": 97,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.005109
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 30,
+      "budget": 10.0,
+      "n_predictions": 783,
+      "n_events": 4,
+      "n_alerts": 127,
+      "tp": 0,
+      "fp": 127,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.005109
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 90,
+      "budget": 0.5,
+      "n_predictions": 2523,
+      "n_events": 8,
+      "n_alerts": 84,
+      "tp": 0,
+      "fp": 84,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.003171
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 90,
+      "budget": 1.0,
+      "n_predictions": 2523,
+      "n_events": 8,
+      "n_alerts": 119,
+      "tp": 0,
+      "fp": 119,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.003171
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 90,
+      "budget": 2.0,
+      "n_predictions": 2523,
+      "n_events": 8,
+      "n_alerts": 198,
+      "tp": 0,
+      "fp": 198,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.003171
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 90,
+      "budget": 5.0,
+      "n_predictions": 2523,
+      "n_events": 8,
+      "n_alerts": 345,
+      "tp": 0,
+      "fp": 345,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.003171
+    },
+    {
+      "metric_date": "2026-10-31",
+      "config": "bb_gps",
+      "tier": "T4",
+      "window_days": 90,
+      "budget": 10.0,
+      "n_predictions": 2523,
+      "n_events": 8,
+      "n_alerts": 487,
+      "tp": 0,
+      "fp": 487,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "lift": 0.0,
+      "base_rate": 0.003171
+    }
+  ],
+  "total_predictions_verified": 19430,
+  "days_active": 170,
+  "T3_30d": {
+    "metric_date": "2026-10-31",
+    "config": "bb_gps",
+    "tier": "T3",
+    "window_days": 30,
+    "budget": 5.0,
+    "n_predictions": 783,
+    "n_events": 13,
+    "n_alerts": 109,
+    "tp": 1,
+    "fp": 108,
+    "fn": 12,
+    "precision": 0.0092,
+    "recall": 0.0769,
+    "lift": 0.55,
+    "base_rate": 0.016603
+  },
+  "T4_30d": {
+    "metric_date": "2026-10-31",
+    "config": "bb_gps",
+    "tier": "T4",
+    "window_days": 30,
+    "budget": 5.0,
+    "n_predictions": 783,
+    "n_events": 4,
+    "n_alerts": 97,
+    "tp": 0,
+    "fp": 97,
+    "fn": 4,
+    "precision": 0.0,
+    "recall": 0.0,
+    "lift": 0.0,
+    "base_rate": 0.005109
+  },
+  "zone_performance": [
+    {
+      "zone": "Z_15_120",
+      "name": "Okinawa",
+      "pop_millions": 28,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 41,
+          "tp": 0,
+          "fp": 41,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_15_145",
+      "name": "Z_15_145",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 75,
+          "tp": 0,
+          "fp": 75,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 60,
+          "tp": 0,
+          "fp": 60,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_20_120",
+      "name": "Ryukyu",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 61,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 61,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 31,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 31,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 6,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 6,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_20_125",
+      "name": "Z_20_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 13,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 13,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 6,
+          "n_alerts": 58,
+          "tp": 0,
+          "fp": 58,
+          "fn": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 48,
+          "tp": 0,
+          "fp": 48,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 27,
+          "tp": 0,
+          "fp": 27,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_20_140",
+      "name": "Z_20_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 29,
+          "n_alerts": 22,
+          "tp": 5,
+          "fp": 17,
+          "fn": 24,
+          "precision": 0.2273,
+          "recall": 0.1724,
+          "lift": 1.32
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 18,
+          "n_alerts": 5,
+          "tp": 0,
+          "fp": 5,
+          "fn": 18,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 10,
+          "n_alerts": 2,
+          "tp": 1,
+          "fp": 1,
+          "fn": 9,
+          "precision": 0.5,
+          "recall": 0.1,
+          "lift": 8.35
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 1,
+          "n_alerts": 6,
+          "tp": 0,
+          "fp": 6,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_20_145",
+      "name": "Z_20_145",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 44,
+          "tp": 0,
+          "fp": 44,
+          "fn": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 49,
+          "tp": 0,
+          "fp": 49,
+          "fn": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 48,
+          "tp": 0,
+          "fp": 48,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 39,
+          "tp": 0,
+          "fp": 39,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_25_120",
+      "name": "Z_25_120",
+      "pop_millions": 2,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 10,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 10,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 5,
+          "n_alerts": 65,
+          "tp": 2,
+          "fp": 63,
+          "fn": 3,
+          "precision": 0.0308,
+          "recall": 0.4,
+          "lift": 1.03
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 60,
+          "tp": 0,
+          "fp": 60,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 55,
+          "tp": 0,
+          "fp": 55,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_25_125",
+      "name": "Z_25_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 40,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 40,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 24,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 24,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 6,
+          "n_alerts": 10,
+          "tp": 0,
+          "fp": 10,
+          "fn": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 7,
+          "tp": 0,
+          "fp": 7,
+          "fn": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_25_130",
+      "name": "Z_25_130",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 17,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 17,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 10,
+          "n_alerts": 37,
+          "tp": 3,
+          "fp": 34,
+          "fn": 7,
+          "precision": 0.0811,
+          "recall": 0.3,
+          "lift": 1.36
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 14,
+          "tp": 0,
+          "fp": 14,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 30,
+          "tp": 0,
+          "fp": 30,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_25_135",
+      "name": "Z_25_135",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 13,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 13,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 11,
+          "n_alerts": 10,
+          "tp": 0,
+          "fp": 10,
+          "fn": 11,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 4,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 4,
+          "n_alerts": 7,
+          "tp": 0,
+          "fp": 7,
+          "fn": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_25_140",
+      "name": "Z_25_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 28,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 28,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 15,
+          "n_alerts": 4,
+          "tp": 0,
+          "fp": 4,
+          "fn": 15,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 1,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 1,
+          "n_alerts": 5,
+          "tp": 0,
+          "fp": 5,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_30_125",
+      "name": "Z_30_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 4,
+          "n_alerts": 2,
+          "tp": 1,
+          "fp": 1,
+          "fn": 3,
+          "precision": 0.5,
+          "recall": 0.25,
+          "lift": 21.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 89,
+          "tp": 2,
+          "fp": 87,
+          "fn": 0,
+          "precision": 0.0225,
+          "recall": 1.0,
+          "lift": 1.89
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 28,
+          "tp": 0,
+          "fp": 28,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 19,
+          "tp": 0,
+          "fp": 19,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_30_130",
+      "name": "Kyushu-South",
+      "pop_millions": 13,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 58,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 58,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 30,
+          "n_alerts": 57,
+          "tp": 16,
+          "fp": 41,
+          "fn": 14,
+          "precision": 0.2807,
+          "recall": 0.5333,
+          "lift": 1.57
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 27,
+          "tp": 0,
+          "fp": 27,
+          "fn": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 14,
+          "tp": 0,
+          "fp": 14,
+          "fn": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_30_135",
+      "name": "Kyushu-North",
+      "pop_millions": 4,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 31,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 31,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 6,
+          "n_alerts": 15,
+          "tp": 0,
+          "fp": 15,
+          "fn": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 9,
+          "tp": 0,
+          "fp": 9,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 9,
+          "tp": 0,
+          "fp": 9,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_30_140",
+      "name": "Z_30_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 54,
+          "n_alerts": 3,
+          "tp": 3,
+          "fp": 0,
+          "fn": 51,
+          "precision": 1.0,
+          "recall": 0.0556,
+          "lift": 3.11
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 37,
+          "n_alerts": 11,
+          "tp": 4,
+          "fp": 7,
+          "fn": 33,
+          "precision": 0.3636,
+          "recall": 0.1081,
+          "lift": 1.65
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 9,
+          "tp": 0,
+          "fp": 9,
+          "fn": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 6,
+          "tp": 0,
+          "fp": 6,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_35_130",
+      "name": "Shikoku",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 7,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 7,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 55,
+          "tp": 0,
+          "fp": 55,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 29,
+          "tp": 0,
+          "fp": 29,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 17,
+          "tp": 0,
+          "fp": 17,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_35_135",
+      "name": "Osaka-Kobe",
+      "pop_millions": 60,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 35,
+          "n_alerts": 1,
+          "tp": 0,
+          "fp": 1,
+          "fn": 35,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 16,
+          "n_alerts": 3,
+          "tp": 0,
+          "fp": 3,
+          "fn": 16,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 6,
+          "n_alerts": 10,
+          "tp": 0,
+          "fp": 10,
+          "fn": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 21,
+          "tp": 0,
+          "fp": 21,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_35_140",
+      "name": "Tokyo-Kanto",
+      "pop_millions": 39,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 97,
+          "n_alerts": 1,
+          "tp": 1,
+          "fp": 0,
+          "fn": 96,
+          "precision": 1.0,
+          "recall": 0.0103,
+          "lift": 1.73
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 53,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 53,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 13,
+          "n_alerts": 5,
+          "tp": 0,
+          "fp": 5,
+          "fn": 13,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 1,
+          "n_alerts": 14,
+          "tp": 0,
+          "fp": 14,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        }
+      }
+    },
+    {
+      "zone": "Z_40_130",
+      "name": "Z_40_130",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 15,
+          "tp": 0,
+          "fp": 15,
+          "fn": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 24,
+          "tp": 0,
+          "fp": 24,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 49,
+          "tp": 0,
+          "fp": 49,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 36,
+          "tp": 0,
+          "fp": 36,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_40_135",
+      "name": "Niigata",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 12,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 12,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 44,
+          "tp": 0,
+          "fp": 44,
+          "fn": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 47,
+          "tp": 0,
+          "fp": 47,
+          "fn": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 45,
+          "tp": 0,
+          "fp": 45,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_40_140",
+      "name": "Hokkaido-S",
+      "pop_millions": 4,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 99,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 99,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 58,
+          "n_alerts": 10,
+          "tp": 2,
+          "fp": 8,
+          "fn": 56,
+          "precision": 0.2,
+          "recall": 0.0345,
+          "lift": 0.58
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 18,
+          "n_alerts": 20,
+          "tp": 3,
+          "fp": 17,
+          "fn": 15,
+          "precision": 0.15,
+          "recall": 0.1667,
+          "lift": 1.39
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 9,
+          "n_alerts": 19,
+          "tp": 1,
+          "fp": 18,
+          "fn": 8,
+          "precision": 0.0526,
+          "recall": 0.1111,
+          "lift": 0.98
+        }
+      }
+    },
+    {
+      "zone": "Z_40_145",
+      "name": "Hokkaido-E",
+      "pop_millions": 5,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 49,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 49,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 37,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 37,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 3,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 3,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_40_150",
+      "name": "Z_40_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 2,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 9,
+          "tp": 0,
+          "fp": 9,
+          "fn": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 92,
+          "tp": 0,
+          "fp": 92,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 53,
+          "tp": 0,
+          "fp": 53,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_45_140",
+      "name": "Z_45_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 7,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 7,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 20,
+          "tp": 0,
+          "fp": 20,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 86,
+          "tp": 0,
+          "fp": 86,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 99,
+          "tp": 0,
+          "fp": 99,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_45_145",
+      "name": "Kuril-South",
+      "pop_millions": 5,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 14,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 14,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 6,
+          "n_alerts": 24,
+          "tp": 0,
+          "fp": 24,
+          "fn": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 37,
+          "tp": 0,
+          "fp": 37,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 51,
+          "tp": 0,
+          "fp": 51,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_45_150",
+      "name": "Z_45_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 36,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 36,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 28,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 28,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 8,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 8,
+          "precision": 0,
+          "recall": 0.0,
+          "lift": 0.0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_45_155",
+      "name": "Z_45_155",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 62,
+          "tp": 0,
+          "fp": 62,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_50_150",
+      "name": "Z_50_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 4,
+          "n_alerts": 134,
+          "tp": 4,
+          "fp": 130,
+          "fn": 0,
+          "precision": 0.0299,
+          "recall": 1.0,
+          "lift": 1.25
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 2,
+          "n_alerts": 168,
+          "tp": 2,
+          "fp": 166,
+          "fn": 0,
+          "precision": 0.0119,
+          "recall": 1.0,
+          "lift": 1.0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 159,
+          "tp": 0,
+          "fp": 159,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 117,
+          "tp": 0,
+          "fp": 117,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    },
+    {
+      "zone": "Z_50_155",
+      "name": "Z_50_155",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T2": {
+          "n_verified": 168,
+          "n_events": 0,
+          "n_alerts": 110,
+          "tp": 0,
+          "fp": 110,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T3": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 77,
+          "tp": 0,
+          "fp": 77,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        },
+        "T4": {
+          "n_verified": 167,
+          "n_events": 0,
+          "n_alerts": 61,
+          "tp": 0,
+          "fp": 61,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0,
+          "lift": 0
+        }
+      }
+    }
+  ],
+  "alert_history": [
+    {
+      "date": "2026-10-24",
+      "alerts": {
+        "T1": [
+          "Z_50_150"
+        ],
+        "T2": [
+          "Z_30_125",
+          "Z_30_130",
+          "Z_30_135",
+          "Z_50_150",
+          "Z_50_155"
+        ],
+        "T3": [
+          "Z_30_125",
+          "Z_30_130",
+          "Z_30_135",
+          "Z_50_150"
+        ],
+        "T4": [
+          "Z_30_125",
+          "Z_30_130",
+          "Z_30_135",
+          "Z_50_150"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "alerts": {
+        "T1": [
+          "Z_50_150"
+        ],
+        "T2": [
+          "Z_25_130",
+          "Z_30_125",
+          "Z_30_130",
+          "Z_35_130",
+          "Z_50_150",
+          "Z_50_155"
+        ],
+        "T3": [
+          "Z_30_125",
+          "Z_30_130",
+          "Z_35_130",
+          "Z_50_150"
+        ],
+        "T4": [
+          "Z_25_130",
+          "Z_30_125",
+          "Z_30_130",
+          "Z_35_130",
+          "Z_50_150"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "alerts": {
+        "T1": [
+          "Z_50_150"
+        ],
+        "T2": [
+          "Z_25_135",
+          "Z_30_125",
+          "Z_35_130",
+          "Z_50_150",
+          "Z_50_155"
+        ],
+        "T3": [
+          "Z_30_125",
+          "Z_50_150"
+        ],
+        "T4": [
+          "Z_25_130",
+          "Z_30_125",
+          "Z_50_150"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "alerts": {
+        "T1": [
+          "Z_20_140",
+          "Z_50_150"
+        ],
+        "T2": [
+          "Z_30_125",
+          "Z_35_130",
+          "Z_50_150",
+          "Z_50_155"
+        ],
+        "T3": [
+          "Z_30_125",
+          "Z_50_150"
+        ],
+        "T4": [
+          "Z_20_140",
+          "Z_30_125"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "alerts": {
+        "T1": [
+          "Z_20_140",
+          "Z_50_150"
+        ],
+        "T2": [
+          "Z_30_125",
+          "Z_50_150",
+          "Z_50_155"
+        ]
+      }
+    }
+  ]
+}
